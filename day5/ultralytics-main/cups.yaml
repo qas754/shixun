@@ -1,0 +1,7 @@
+path: D:\python.learm\shixun\day5\ultralytics-main\datasets_cups
+train: train.txt
+val: val.txt
+test: test.val
+
+names:
+  cups
