@@ -1,0 +1,10 @@
+path: D:\python.learm\shixun\day7\ultralytics-main\ultralytics\datasets
+train: images\train
+val: images\val
+test:
+
+
+names:
+  0:apple
+  1:banana
+  2:orange
